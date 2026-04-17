@@ -1,14 +1,12 @@
 # fpl-simple-linear-regression
 
-Florida Power & Light (FPL) Simple Linear Regression Analysis
-Overview
-This project examines how meteorological variables—primarily daily mean temperature and precipitation—influence electrical demand and net generation within Florida Power & Light’s (FPL) service territory. Using simple linear regression models and Pearson correlation analysis, the study evaluates the strength and direction of linear relationships across multiple Florida locations from 2019 to 2024.
+⚡ Florida Power & Light (FPL) — Simple Linear Regression Analysis
+📘 Overview
+This project examines how meteorological variables—primarily daily mean temperature and precipitation—influence electrical demand and net generation within Florida Power & Light’s (FPL) service territory. Using simple linear regression models and Pearson correlation analysis, the study evaluates linear relationships across multiple Florida locations from 2019 to 2024.
 
-The analysis was conducted entirely in Excel, using the Data Analysis ToolPak for regression modeling and correlation computation.
+The analysis was conducted entirely in Excel using the Data Analysis ToolPak for regression modeling and correlation computation.
 
-The primary objective of this study is to determine how weather variables affect electrical demand and net generation across FPL’s service region.
-
-Project Structure
+🗂️ Project Structure
 Code
 fpl-simple-linear-regression/
 │── data/
@@ -18,7 +16,7 @@ fpl-simple-linear-regression/
 │── PowerPoint Presentation/   # Report with exported visualizations
 │── documentation/             # Methodology notes, data dictionary, workflow
 │── README.md
-Data Sources
+🌐 Data Sources
 Electrical Demand & Net Generation
 U.S. Energy Information Administration (EIA)  
 Daily time series including:
@@ -45,7 +43,7 @@ Station‑level geographic coverage
 
 Meteorological observations were obtained from the FSU Climate Center.
 
-Methodology
+🔧 Methodology
 The analysis uses simple linear regression, modeling one independent variable at a time.
 
 Dependent Variables (Y)
@@ -69,19 +67,17 @@ Scatter plots with trendlines
 
 R² for goodness‑of‑fit evaluation
 
-The technology used was Excel, including the statistical analysis tool packs (Regression and Pearson correlation).
-
-Statistical Approach
+📊 Statistical Approach
 Correlation Analysis
 Pearson’s correlation coefficient (r) quantifies the strength of a linear relationship.
 
 Interpretation:
 
-r close to 1 → strong positive correlation
+r → 1 → strong positive correlation
 
-r close to -1 → strong negative correlation
+r → -1 → strong negative correlation
 
-r near 0 → no linear correlation
+r → 0 → no linear correlation
 
 Simple Linear Regression
 For each city and year, the model is:
@@ -102,35 +98,13 @@ R² measures how well the model explains variation in Y.
 
 Higher R² → better fit.
 
-If the R‑squared value is close to 1, the regression model is considered adequate.
-
-Geographic & Temporal Coverage
+🗺️ Geographic & Temporal Coverage
 Models were created for 10 Florida locations across 2019–2024, including:
 
-Miami
+Miami • Kissimmee • Hialeah • Ft. Lauderdale • Daytona Beach • Melbourne • Vero Beach • Naples • Miami Beach • Ft. Lauderdale Beach
 
-Kissimmee
-
-Hialeah
-
-Ft. Lauderdale
-
-Daytona Beach
-
-Melbourne
-
-Vero Beach
-
-Naples
-
-Miami Beach
-
-Ft. Lauderdale Beach
-
-Simple linear regression models were created for each city and year.
-
-Key Findings
-1. Temperature Strongly Predicts Demand and Net Generation
+🔍 Key Findings
+🌡️ 1. Temperature Strongly Predicts Demand and Net Generation
 Across all cities and years:
 
 Strong positive correlations (r ≈ 0.86–0.90)
@@ -161,7 +135,7 @@ Regression: y = 5265.5x – 40031
 
 These results show a strong positive linear correlation between mean temperature and both electrical demand and net generation.
 
-2. Precipitation Has Weak Predictive Power
+🌧️ 2. Precipitation Has Weak Predictive Power
 Models using precipitation as the independent variable showed:
 
 Very weak correlations (r ≈ -0.03 to 0.08)
@@ -176,9 +150,7 @@ r = -0.03
 
 R² = 0.001
 
-These models showed weak linear correlation and very low explanatory power.
-
-3. Coastal & High‑Population Cities Show Stronger Relationships
+🌴 3. Coastal & High‑Population Cities Show Stronger Relationships
 Cities with:
 
 Larger populations
@@ -189,7 +161,7 @@ Coastal climates
 
 …tended to exhibit stronger correlations and higher R² values.
 
-Conclusions
+🧾 Conclusions
 Mean temperature is a strong predictor of both electrical demand and net generation across FPL’s service territory.
 
 Precipitation is not a meaningful predictor in simple linear regression models.
@@ -198,7 +170,7 @@ Simple linear regression provides clear, interpretable insights, but more advanc
 
 Adding additional variables—such as humidity, wind speed, seasonality, or holidays—would increase the model’s explanatory power and improve the R‑squared coefficient.
 
-Next Steps
+🚀 Next Steps
 Future work may include:
 
 Multiple linear regression
