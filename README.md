@@ -1,6 +1,6 @@
-# fpl-simple-linear-regression
+# fpl-correlation-analysis-simple-linear-regression
 
-⚡ **Florida Power & Light (FPL) — Simple Linear Regression Analysis**
+⚡ **Florida Power & Light (FPL) — Correlation Analysis and Simple Linear Regression Analysis**
 
 📘 **Overview**
 
