@@ -22,7 +22,9 @@ fpl-simple-linear-regression/
 🌐 **Data Sources**
 
 **Electrical Demand & Net Generation**
-**U.S. Energy Information Administration (EIA)** Daily time series including:
+**U.S. Energy Information Administration (EIA)** 
+
+Daily time series including:
 
 - Actual electrical demand (MWh)
 - Forecasted demand
@@ -32,7 +34,9 @@ fpl-simple-linear-regression/
 The electrical demand data used in this study were sourced from the EIA database, with a focus on FPL data.
 
 **Meteorological Data**
-**Florida State University (FSU) Climate Center** Daily observations, including:
+**Florida State University (FSU) Climate Center** 
+
+Daily observations, including:
 
 - Mean, max, and min temperature
 - Precipitation
