@@ -1,4 +1,4 @@
-# FPL Correlation Analysis and Simple Linear Regression Project
+# FPL Correlation Analysis and Simple Linear Regression Models Project
 
 Methodology and Workflow
 
