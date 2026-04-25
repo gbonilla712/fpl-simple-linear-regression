@@ -25,7 +25,6 @@ fpl-correlation-analysis-simple-linear-regression/
 │   ├── FPL Project Data Dictionary.csv
 │
 ├── documentation/
-│   ├── FPL Simple Linear Regression – Methodology and Workflow.md
 │   ├── FPL Simple Linear Regression – Methodology and Workflow.pdf
 │
 ├── presentation/
