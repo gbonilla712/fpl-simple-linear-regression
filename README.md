@@ -10,27 +10,29 @@ The analysis was conducted entirely in **Excel** using the **Data Analysis ToolP
 
 🗂️ **Project Structure**
 
+```plaintext
 fpl-correlation-analysis-simple-linear-regression/
 │
-│── data/
-│     ├── FPL Project Data 2019 V2.xlsx
-│     ├── FPL Project Data 2020.xlsx
-│     ├── FPL Project Data 2021.xlsx
-│     ├── FPL Project Data 2022.xlsx
-│     ├── FPL Project Data 2023.xlsx
-│     ├── FPL Project Data 2024 V2.xlsx
-│     ├── FPL Project Data Extra 2019.xlsx
-│     ├── FPL Project Data Extra 2024.xlsx
-│     └── FPL Project Data Dictionary.csv
+├── data/
+│   ├── FPL Project Data 2019 V2.xlsx
+│   ├── FPL Project Data 2020.xlsx
+│   ├── FPL Project Data 2021.xlsx
+│   ├── FPL Project Data 2022.xlsx
+│   ├── FPL Project Data 2023.xlsx
+│   ├── FPL Project Data 2024 V2.xlsx
+│   ├── FPL Project Data Extra 2019.xlsx
+│   ├── FPL Project Data Extra 2024.xlsx
+│   ├── FPL Project Data Dictionary.csv
 │
-│── documentation/
-│     ├── FPL Simple Linear Regression - Methodology and Workflow.md
-│     ├── FPL Simple Linear Regression - Methodology and Workflow.pdf
+├── documentation/
+│   ├── FPL Simple Linear Regression – Methodology and Workflow.md
+│   ├── FPL Simple Linear Regression – Methodology and Workflow.pdf
 │
-│── presentation/
-│     └── GBonilla - FPL PowerPoint Presentation.pdf
+├── presentation/
+│   ├── GBonilla – FPL PowerPoint Presentation.pdf
 │
-│── README.md
+└── README.md
+```
 
 🌐 **Data Sources**
 
