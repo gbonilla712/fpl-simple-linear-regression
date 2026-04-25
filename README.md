@@ -13,7 +13,7 @@ The analysis was conducted entirely in **Excel** using the **Data Analysis ToolP
 ```plaintext
 fpl-correlation-analysis-simple-linear-regression/
 │
-├── data/
+├── data/Files include preprocessed data, data visualizations, and statistical findings
 │   ├── FPL Project Data 2019 V2.xlsx
 │   ├── FPL Project Data 2020.xlsx
 │   ├── FPL Project Data 2021.xlsx
