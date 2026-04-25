@@ -10,7 +10,7 @@ The analysis was conducted entirely in **Excel** using the **Data Analysis ToolP
 
 🗂️ **Project Structure**
 
-fpl-simple-linear-regression/
+fpl-correlation-analysis-simple-linear-regression/
 │── data/
 │     ├── eia/                 # Electrical demand & net generation data
 │     └── climate/             # Meteorological data from FSU Climate Center
