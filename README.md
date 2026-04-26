@@ -23,6 +23,8 @@ fpl-correlation-analysis-simple-linear-regression/
 │   ├── FPL Project Data Extra 2019.xlsx
 │   ├── FPL Project Data Extra 2024.xlsx
 │   ├── FPL Project Data Dictionary.csv
+│   
+│    Excel files can be previewed directly on GitHub or downloaded to open in Excel.
 │
 ├── documentation/
 │   ├── FPL Project – Methodology and Workflow.pdf
