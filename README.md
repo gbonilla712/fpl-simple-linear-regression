@@ -4,7 +4,7 @@
 
 📘 **Overview**
 
-This project examines how meteorological variables—primarily **daily mean temperature** and **precipitation**—influence **electrical demand** and **net generation** within Florida Power & Light’s (FPL) service territory. Using **simple linear regression models** and **Pearson correlation analysis**, the study evaluates linear relationships across multiple Florida locations from **2019 to 2024**.
+This project examines how meteorological variables—primarily **daily mean temperature** and **precipitation**—influence **electrical demand** and **net generation** within Florida Power & Light’s (FPL) service territory. Using **simple linear regression models** and **Pearson correlation analysis**, the study evaluates linear relationships across multiple Florida locations from **2019 to 2024**. This project was completed as part of a Broward College partnership with the mathematics department and FPL, funded by a grant from FPL.
 
 The analysis was conducted entirely in **Excel** using the **Data Analysis ToolPak** for regression modeling and correlation computation.
 
