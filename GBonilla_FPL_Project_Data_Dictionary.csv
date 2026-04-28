@@ -1,0 +1,25 @@
+﻿Variable Name,Description,Type,Units,Source
+datetime,Calendar date of observation,Date,YYYY‑MM‑DD,EIA
+demand_mwh,Actual daily electrical demand,Numeric,MWh,EIA
+forecast_demand_mwh,Forecasted daily demand,Numeric,MWh,EIA
+net_generation_mwh,Total electricity generated daily,Numeric,MWh,EIA
+region,"Balancing authority (e.g., FPL)",Categorical,—,EIA
+station_id,Weather station identifier,Categorical,—,FSU
+station_name,"Station name (e.g., Miami)",Categorical,—,FSU
+year,Year of observation,Numeric,YYYY,FSU
+month,Month of observation,Numeric,MM,FSU
+day,Day of observation,Numeric,DD,FSU
+date,Combined YEAR‑MONTH‑DAY field,Date,YYYY‑MM‑DD,Derived
+temp_mean,Daily mean temperature,Numeric,°F / °C,FSU
+temp_max,Daily max temperature,Numeric,°F / °C,FSU
+temp_min,Daily min temperature,Numeric,°F / °C,FSU
+precipitation,Daily precipitation,Numeric,in / mm,FSU
+,,,,
+Variable Name,Description,Type,,
+intercept,Regression intercept,Numeric,,
+slope,Regression slope,Numeric,,
+r,Pearson correlation coefficient,Numeric,,
+r_squared,Coefficient of determination,Numeric,,
+,,,,
+Variable Name,Description,Type,,
+city,Florida city used in analysis,Categorical,,
