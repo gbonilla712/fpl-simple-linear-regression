@@ -14,23 +14,23 @@ The analysis was conducted entirely in **Excel** using the **Data Analysis ToolP
 fpl-correlation-analysis-simple-linear-regression/
 │
 ├── data/Files include preprocessed data, data visualizations, and statistical findings
-│   ├── GBonilla FPL Project Data 2019 V2.xlsx
-│   ├── GBonilla FPL Project Data 2020.xlsx
-│   ├── GBonilla FPL Project Data 2021.xlsx
-│   ├── GBonilla FPL Project Data 2022.xlsx
-│   ├── GBonilla FPL Project Data 2023.xlsx
-│   ├── GBonilla FPL Project Data 2024 V2.xlsx
-│   ├── GBonilla FPL Project Data Extra 2019.xlsx
-│   ├── GBonilla FPL Project Data Extra 2024.xlsx
-│   ├── GBonilla FPL Project Data Dictionary.csv
+│   ├── GBonilla_FPL_Project_Data_2019_V2.xlsx
+│   ├── GBonilla_FPL_Project_Data_2020.xlsx
+│   ├── GBonilla_FPL_Project_Data_2021.xlsx
+│   ├── GBonilla_FPL_Project_Data_2022.xlsx
+│   ├── GBonilla_FPL_Project_Data_2023.xlsx
+│   ├── GBonilla_FPL_Project_Data_2024_V2.xlsx
+│   ├── GBonilla_FPL_Project_Data_Extra_2019.xlsx
+│   ├── GBonilla_FPL_Project_Data_Extra_2024.xlsx
+│   ├── GBonilla_FPL_Project_Data_Dictionary.csv
 │   
 │    Excel files can be previewed directly on GitHub or downloaded to open in Excel.
 │
 ├── documentation/
-│   ├── GBonilla FPL Project Methodology and Workflow.pdf
+│   ├── GBonilla_FPL_Project_Methodology_and_Workflow.pdf
 │
 ├── presentation/
-│   ├── GBonilla FPL Project Presentation.pdf
+│   ├── GBonilla_FPL_Project_Presentation.pdf
 │
 └── README.md
 ```
