@@ -1,4 +1,4 @@
-# Florida Power & Light (FPL) Project Correlation Analysis and Simple Linear Regression 
+# Florida Power & Light (FPL) Project Correlation Analysis and Simple Linear Regression Project
 
 ⚡ **Florida Power & Light (FPL) — Correlation Analysis and Simple Linear Regression Analysis**
 
